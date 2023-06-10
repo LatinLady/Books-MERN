@@ -1,7 +1,7 @@
 {
-  "name": "googlebooks-app",
+  "name": "books-mern",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Description A Respond app that permits you to look google books api and spare the books you like into your spared books after you sign up for an account.",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
